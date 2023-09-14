@@ -48,3 +48,37 @@ transition: .33s;
 .header_top .social i:hover{
 background-color: #cca876;
 }
+
+.navbar-brand{
+  padding-right: 100px;
+}
+
+.collapse li{
+  margin-right: 20px;
+}
+
+.servise{
+  color: #cca876;
+  font-size: 33px;
+  font-weight: 700;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.carusel_text{
+  font-weight: 700;
+  font-size: 59px;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.carusel_p{
+  color: #fff;
+  font-size: 22px;
+
+  font-family: 'Times New Roman', Times, serif;
+}
+.help-btn{
+  border: #cca876 solid 2px;
+  margin: 30px 0 30px;
+  padding: 14px 30px;
+}
